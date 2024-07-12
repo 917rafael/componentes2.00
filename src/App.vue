@@ -9,8 +9,8 @@ const caixas = [
   { id: 4, title: 'caixa 4', content: 'conteudo da caixa', qtde: 5 }
 ]
 
- 
-</script>
+ const titulo = 00
+ </script>
 
 <template>
   <div class="caixa1">
